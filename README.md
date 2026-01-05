@@ -11,8 +11,13 @@
 </div>
     
 ##  About Me  
-I’m currently learning **HTML, CSS, JavaScript, and React, Tailwind CSS**, focusing on building modern and responsive web applications.  
+I’m currently learned **HTML, CSS, GSAP Animation, JavaScript, React, Tailwind CSS**, focusing on building modern and responsive web applications.  
 I enjoy learning in public and sharing my journey with the community.  
+
+
+## Learning:
+- Next.js
+- Typescript
 
  [Click here](https://www.codecademy.com/profiles/hashir_khan)
 
