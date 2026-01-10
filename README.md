@@ -11,7 +11,7 @@
 </div>
     
 ##  About Me  
-I’m currently learned **HTML, CSS, GSAP Animation, JavaScript, React, Tailwind CSS**, focusing on building modern and responsive web applications.  
+I’m currently learned **HTML, CSS, JavaScript, React, Tailwind CSS, GSAP Animation**, focusing on building modern and responsive web applications.  
 I enjoy learning in public and sharing my journey with the community.  
 
 
@@ -37,6 +37,8 @@ I enjoy learning in public and sharing my journey with the community.
 
 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
 
@@ -46,7 +48,7 @@ I enjoy learning in public and sharing my journey with the community.
 </div>
   
 ##  Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,python,firebase,git,github&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,GreenSock,tailwindcss,nextjs,typescript,python,firebase,git,github&perline=5)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
