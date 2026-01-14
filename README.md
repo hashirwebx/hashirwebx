@@ -23,7 +23,7 @@ I enjoy learning in public and sharing my journey with the community.
 
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+
 
 <div align="left">
     <div align="left">
@@ -39,7 +39,6 @@ I enjoy learning in public and sharing my journey with the community.
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
 
 <div align="left">
@@ -51,7 +50,6 @@ I enjoy learning in public and sharing my journey with the community.
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,GreenSock,tailwindcss,nextjs,typescript,python,firebase,git,github&perline=5)
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
 <div align="left">
     <div align="left">
