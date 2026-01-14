@@ -2,9 +2,6 @@
 - Frontend Engineer  
 
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
-
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
