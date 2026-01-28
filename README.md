@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Hashir 
-- Frontend Engineer  
+- Frontend Developer  
 
 
 <div align="left">
@@ -8,18 +8,53 @@
 </div>
     
 ##  About Me  
-I’m currently learned **HTML, CSS, JavaScript, React, Tailwind CSS, GSAP Animation**, focusing on building modern and responsive web applications.  
-I enjoy learning in public and sharing my journey with the community.  
+Frontend Developer at Peham Ltd, creating scalable and high-performance web interfaces for modern businesses. I focus on building clean, intuitive, and conversion-driven user experiences using modern frontend technologies, with a strong emphasis on quality, performance, and business value.
 
 
-## Learning:
+
+
+## Core Tech Stack
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+    
+### Frontend Development
+- React.js
 - Next.js
-- Typescript
+- JavaScript (ES6+)
+- TypeScript (actively learning for type-safe architectures)
+
+### UI & Styling
+- Tailwind CSS
+- HTML5 / CSS3
+- GSAP (High-performance animations)
+
+### Backend & Databases (Learning Full‑Stack)
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+
+### Workflow & Best Practices
+- Git & GitHub
+- Component-driven development
+- RESTful APIs (fundamentals)
+- Responsive & accessible design
+- Performance optimization
 
  [Click here](https://www.codecademy.com/profiles/hashir_khan)
 
 
-  
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+    
+## Continuous Growth  
+- Improving skills in TypeScript for scalable applications  
+- Expanding knowledge of Next.js architecture and performance  
+- Enhancing frontend systems for long-term maintainability
 
 
 <div align="left">
@@ -46,7 +81,7 @@ I enjoy learning in public and sharing my journey with the community.
 </div>
   
 ##  Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,GreenSock,tailwindcss,nextjs,typescript,python,firebase,git,github&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,GreenSock,tailwindcss,nextjs,typescript,python,mongodb,git,github&perline=5)
 
   
 
