@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Hashir 
-- Frontend Developer  
+- Frontend Developer at Pehamltd
 
 
 <div align="left">
@@ -8,7 +8,7 @@
 </div>
     
 ##  About Me  
-Frontend Developer at Peham Ltd, creating scalable and high-performance web interfaces for modern businesses. I focus on building clean, intuitive, and conversion-driven user experiences using modern frontend technologies, with a strong emphasis on quality, performance, and business value.
+I am creating scalable and high-performance web interfaces for modern businesses. I focus on building clean, intuitive, and conversion-driven user experiences using modern frontend technologies, with a strong emphasis on quality, performance, and business value.
 
 
 
