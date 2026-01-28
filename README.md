@@ -12,13 +12,12 @@ Frontend Developer at Peham Ltd, creating scalable and high-performance web inte
 
 
 
-
-## Core Tech Stack
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
     
+## Core Tech Stack
 ### Frontend Development
 - React.js
 - Next.js
@@ -83,12 +82,27 @@ Frontend Developer at Peham Ltd, creating scalable and high-performance web inte
 ##  Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,GreenSock,tailwindcss,nextjs,typescript,python,mongodb,git,github&perline=5)
 
-  
 
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+    
+## Collaboration
+
+I am interested in collaborating on professional, business-critical frontend projects, SaaS products, and high-impact digital platforms.
+
+- Frontend Developer at Peham Ltd
+
+- Focused on quality, scalability, and business results
+
+> Delivering frontend solutions where design excellence meets performance and business value.
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
     
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
