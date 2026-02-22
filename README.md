@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Hashir 
-- Frontend Developer at Pehamltd
+- Frontend Developer
 
 
 <div align="left">
