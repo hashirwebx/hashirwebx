@@ -41,10 +41,10 @@ Outside my day job, I run **HashirWebX**, my own freelance practice building pre
 
 ## Currently
 
-🟢 **Frontend Developer — Peham Ltd**
+🟢 **Frontend Developer - Peham Ltd**
 Building and shipping production interfaces used by real clients.
 
-🟢 **Founder — HashirWebX**
+🟢 **Founder - HashirWebX**
 Designing and building premium, animation-rich sites for SaaS and e-commerce clients on the side.
 
 <div align="left">
