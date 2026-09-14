@@ -11,9 +11,9 @@ I'm self-taught - I started writing code at 17, and got intern at Peham Ltd. pur
 
 ## About
 
-I build frontend systems, not just pages — component-driven architecture, motion that has a reason to exist, and interfaces people actually convert on. At **Peham Ltd**, I own client-facing interfaces from first commit to production, after being promoted to full-time off the back of a six-month internship.
+I build frontend systems, not just pages - component-driven architecture, motion that has a reason to exist, and interfaces people actually convert on. At **Peham Ltd**, I own client-facing interfaces from first commit to production, after being promoted to full-time off the back of a six-month internship.
 
-Outside my day job, I run **HashirWebX**, my own freelance practice building premium, animation-driven sites for SaaS founders, e-commerce brands, and agencies who want something that doesn't look like every other template on the internet. Right now I'm deepening TypeScript, Next.js architecture (App Router, server components), and backend fundamentals — Node.js, Prisma, Supabase, Auth.js — to operate as a full-stack engineer, not just a frontend one.
+Outside my day job, I run **HashirWebX**, my own freelance practice building premium, animation-driven sites for SaaS founders, e-commerce brands, and agencies who want something that doesn't look like every other template on the internet. Right now I'm deepening TypeScript, Next.js architecture (App Router, server components), and backend fundamentals - Node.js, Prisma, Supabase, Auth.js - to operate as a full-stack engineer, not just a frontend one.
 
 <div align="left">
     <div align="left">
@@ -56,7 +56,7 @@ Designing and building premium, animation-rich sites for SaaS and e-commerce cli
 ## What I'm Working Toward
 
 → Type-safe React architectures at scale
-→ Advanced Next.js patterns — App Router, server components, streaming
+→ Advanced Next.js patterns - App Router, server components, streaming
 → Full-stack fluency with Node.js, Prisma, and Supabase
 → Systems that hold up: clean APIs, reusable components, documentation someone else could actually follow
 
@@ -67,7 +67,7 @@ Designing and building premium, animation-rich sites for SaaS and e-commerce cli
 
 ## Open To
 
-Collaborating on **SaaS products**, **business-critical frontends**, and **high-impact digital platforms** — anywhere I can bring clean UI, performance-focused engineering, and product thinking, not just implementation.
+Collaborating on **SaaS products**, **business-critical frontends**, and **high-impact digital platforms** - anywhere I can bring clean UI, performance-focused engineering, and product thinking, not just implementation.
 
 <div align="left">
     <div align="left">
